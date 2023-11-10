@@ -1,0 +1,7 @@
+
+ Identifier    Name            Position    Required Work Hours    Basic or Hourly Wage    Basic Time Wage    Overtime Wage
+ EMP001        John Smith      Manager     40 hours/week         $60,000/year            $28.85/hour        $43.27/hour
+ EMP002        Sarah Johnson   Worker      35 hours/week         $40,000/year            $19.23/hour        $28.85/hour
+ EMP003        Robert Brown    Manager     40 hours/week         $55,000/year            $26.44/hour        $39.66/hour
+ EMP004        Lisa Davis      Worker      38 hours/week         $45,000/year            $21.63/hour        $32.45/hour
+ EMP005        Michael Wilson  Manager     42 hours/week         $70,000/year            $33.65/hour        $50.48/hour

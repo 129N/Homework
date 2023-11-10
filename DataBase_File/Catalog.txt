@@ -1,0 +1,21 @@
+identifier; name; position;required workhours; basic or hourly wage ; basictimewage;overtimewage;
+EMP001;John Cena;Manager;4;6000;28;43
+EMP002;Sarah Brightman;Worker;5;4000;19;28
+EMP003;Reiner Brown;Manager;10;5500;26;39
+EMP004;Lisa Mondstadt;Worker;10;4500;21;32
+EMP005;Michael Wilson;Manager;4;7000;33;50
+EMP006;Jet Lee;Manager;40;6200;9;44
+EMP007;Jason Statham;Worker;7;400;20;30
+EMP008;Elizabeth Olsen;Worker;6;4300;21;32
+EMP009;William John;Manager;9;5800;27;40
+EMP010;Shenhe Kokomi;Worker;4;3900;19;29
+EMP011;Thomas SteamLocomotive;Manager;4;6400;31;46
+EMP012;Susan Jackson;Manager;8;5900;28;42
+EMP013;Yaju Senpai;Worker;6;810;19;45
+EMP014;Jackson Taylor;Worker;6;3800;18;27
+EMP015;Mr Anderson;Manager;7;6600;32;49
+EMP016;Mary Xmas;Manager;6;6100;29;44
+EMP017;Christopher Nolan;Worker;8;4100;20;30
+EMP018;Inmu Shikoshiko;Worker;12;4000;20;30
+EMP019;Daniel Hall;Manager;9;5700;27;40
+EMP020;Karen Davis;Worker;10;4300;21;32
